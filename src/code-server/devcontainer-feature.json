@@ -1,0 +1,10 @@
+{
+  "id": "code-server",
+  "version": "0.0.1",
+  "name": "Code-Server",
+  "description": "Installs code-server (VS Code in the browser).",
+  "documentationURL": "https://github.com/nikunh/code-server-vishkrm",
+  "licenseURL": "https://github.com/nikunh/code-server-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": []
+}
