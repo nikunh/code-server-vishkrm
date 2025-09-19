@@ -18,7 +18,7 @@ get_architecture() {
 # Install code-server using direct package installation (non-interactive)
 if ! command -v code-server &> /dev/null; then
   echo "Installing code-server via direct package download..."
-  VERSION="4.16.1"
+  VERSION="4.104.0"
   ARCH=$(get_architecture)
 
   # Download and install code-server package directly
